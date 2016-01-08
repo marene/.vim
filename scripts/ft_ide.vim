@@ -6,14 +6,14 @@ noremap		<F2> :Project<CR>
 
 "make related mappings
 noremap		<F5> :execute ":make -C " . g:projectPath<CR>
-noremap		<F6> :execute ":make -C " . g:projectPath . "re" <CR>
-noremap		<F7> :execute ":make -C " . g:projectPath . "clean" <CR>
-noremap		<F8> :execute ":make -C " . g:projectPath . "fclean" <CR>
+noremap		<F6> :execute ":make -C " . g:projectPath . " re" <CR>
+noremap		<F7> :execute ":make -C " . g:projectPath . " clean" <CR>
+noremap		<F8> :execute ":make -C " . g:projectPath . " fclean" <CR>
 
 "split-pane navigation mappings
-noremap		<C-Right> <c-w>l
-noremap		<C-Left> <c-w>h
-noremap		<C-Up> <c-w>k
-noremap		<C-Down> <c-w>j 
+noremap		<ALT-Right> <c-w>l
+noremap		<ALT-Left> <c-w>h
+noremap		<ALT-Up> <c-w>k
+noremap		<ALT-Down> <c-w>j 
 
 "TODO enregistrement des path de projet, proposer les projets a ouvrir etc...
