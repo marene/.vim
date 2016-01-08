@@ -1,6 +1,7 @@
 execute pathogen#infect()
 
 set noswapfile
+set mouse=a
 set list lcs=tab:\|\ 
 syntax on
 set nu
