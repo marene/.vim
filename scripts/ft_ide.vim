@@ -5,10 +5,10 @@ source		~/.vim/scripts/project.vim
 noremap		<F2> :Project<CR>
 
 "make related mappings
-noremap		<F5> :execute ":make -C " . g:projectPath<CR>
-noremap		<F6> :execute ":make -C " . g:projectPath . " re" <CR>
-noremap		<F7> :execute ":make -C " . g:projectPath . " clean" <CR>
-noremap		<F8> :execute ":make -C " . g:projectPath . " fclean" <CR>
+noremap		<F5> :execute ":make -C " . g:projectPath<CR> :cw <CR>
+noremap		<F6> :execute ":make -C " . g:projectPath . " re" <CR> :cw <CR>
+noremap		<F7> :execute ":make -C " . g:projectPath . " clean" <CR> :cw <CR>
+noremap		<F8> :execute ":make -C " . g:projectPath . " fclean" <CR> :cw <CR>
 
 "split-pane navigation mappings
 noremap		<ALT-Right> <c-w>l
