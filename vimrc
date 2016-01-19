@@ -4,6 +4,7 @@ set noswapfile
 set mouse=a
 set list lcs=tab:\|\ 
 syntax on
+colorscheme PaperColor
 set nu
 set cursorline
 set smartindent
