@@ -19,4 +19,6 @@ noremap		<ALT-Down> <c-w>j
 "42 specific mappings
 noremap <F1> :Stdheader <CR>
 
+"Open NERDTree in current working directory
+autocmd VimEnter * NERDTree
 "TODO enregistrement des path de projet, proposer les projets a ouvrir etc...

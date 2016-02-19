@@ -4,6 +4,7 @@ let pathToSave="~/.vim/save/"
 let projectExtension=".proj"
 
 :command! -narg=0 Project :execute CreateProject()
+:command! -narg=0 OpenProjectTree :execute OpenProjectTree()
 
 function! SetProjectName() "sets project's name for current vim session
 	call inputsave()
