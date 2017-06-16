@@ -1,5 +1,6 @@
 "source different useful scripts
 source		~/.vim/scripts/project.vim
+source		~/.vim/scripts/node.vim
 
 "project management mappings
 noremap		<F2> :Project<CR>
