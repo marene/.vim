@@ -1,0 +1,282 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e1bc2a3/
+"	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+&	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+'	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+/	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+0	../build/.eslintrc.json	/^            "error",$/;"	s	array:rules.indent
+0	../build/.eslintrc.json	/^            "error",$/;"	s	array:rules.linebreak-style
+0	../build/.eslintrc.json	/^            "error",$/;"	s	array:rules.quotes
+0	../build/.eslintrc.json	/^            "error",$/;"	s	array:rules.semi
+0	../build/.eslintrc.json	/^            "off"$/;"	s	array:rules.no-console
+1	../build/.eslintrc.json	/^            "never"$/;"	s	array:rules.semi
+1	../build/.eslintrc.json	/^            "single"$/;"	s	array:rules.quotes
+1	../build/.eslintrc.json	/^            "tab"$/;"	s	array:rules.indent
+1	../build/.eslintrc.json	/^            "unix"$/;"	s	array:rules.linebreak-style
+<	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+>	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.encodeHTMLSource.n
+AnonymousFunctione4e080680100	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+AnonymousFunctione4e080680200	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+AnonymousFunctione4e080680300	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+AnonymousFunctione4e080680400	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+AnonymousFunctione4e080680500	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f	function:r.encodeHTMLSource
+AnonymousFunctione4e080680600	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f	function:r.encodeHTMLSource
+AnonymousFunctione4e080680700	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+AnonymousFunctionebab801f0100	../build/build.js	/^			_.partialRight(_.mapValues, function (color) {$/;"	f
+AnonymousFunctionebab801f0200	../build/build.js	/^			_.partialRight(_.mapValues, function (color) {$/;"	f
+AnonymousFunctionebab801f0300	../build/build.js	/^				srgb = srgb.map(function (n) {$/;"	f
+_	../build/build.js	/^const _ = require('lodash') \/\/ ships with termcolors; only used because of termcolors customiz/;"	C
+airline#themes#onedark#refresh	../autoload/airline/themes/onedark.vim	/^function! airline#themes#onedark#refresh()$/;"	f
+append	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c	class:o
+append	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+arg	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+author	../build/package.json	/^  "author": {$/;"	o
+build	../build/package.json	/^    "build": "node build.js",$/;"	s	object:scripts
+compile	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f	function:r
+compile	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+conditional	../build/build.js	/^	conditional: \/\\<\\%\\?(\\?)?\\s*([\\s\\S]*?)\\s*\\%\\>\/g,$/;"	p	class:doT.templateSettings
+conditional	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+define	../build/build.js	/^	define:      \/\\<\\%##\\s*([\\w\\.$]+)\\s*(\\:|=)([\\s\\S]+?)#\\%\\>\/g,$/;"	p	class:doT.templateSettings
+define	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+defineParams	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+dependencies	../build/package.json	/^  "dependencies": {$/;"	o
+description	../build/package.json	/^  "description": "Builds the onedark.vim Vim colorscheme and associated files",$/;"	s
+devDependencies	../build/package.json	/^  "devDependencies": {$/;"	o
+doNotSkipEncoded	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+doT	../build/build.js	/^const doT = require('doT')$/;"	C
+dot	../build/package.json	/^    "dot": "^1.1.1",$/;"	s	object:dependencies
+e	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+email	../build/package.json	/^    "email": "josh@joshdick.net",$/;"	s	object:author
+encode	../build/build.js	/^	encode:      \/\\<\\%!([\\s\\S]+?)\\%\\>\/g,$/;"	p	class:doT.templateSettings
+encode	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+encodeHTMLSource	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f	function:r
+end	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.append
+end	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.split
+engine	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+env	../build/.eslintrc.json	/^    "env": {$/;"	o
+es6	../build/.eslintrc.json	/^        "es6": true,$/;"	b	object:env
+eslint	../build/package.json	/^    "eslint": "^3.15.0",$/;"	s	object:devDependencies
+evaluate	../build/build.js	/^	evaluate:    \/\\<\\%([\\s\\S]+?)\\%\\>\/g,$/;"	p	class:doT.templateSettings
+evaluate	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+extends	../build/.eslintrc.json	/^    "extends": "eslint:recommended",$/;"	s
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette = {}$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.accents = {$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.inactive_modified = {$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert_modified = g:airline#themes#onedark#palette.normal/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert_modified.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.insert_modified.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal.airline_error = [$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal.airline_warning = [$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal_modified = {$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal_modified.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.normal_modified.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace_modified = g:airline#themes#onedark#palette.norma/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace_modified.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.replace_modified.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual.airline_warning =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual_modified = g:airline#themes#onedark#palette.normal/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual_modified.airline_error =$/;"	v
+g:airline#themes#onedark#palette	../autoload/airline/themes/onedark.vim	/^  let g:airline#themes#onedark#palette.visual_modified.airline_warning =$/;"	v
+g:colors_name	../colors/onedark.vim	/^let g:colors_name="onedark"$/;"	v
+g:colors_name	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let g:colors_name="onedark"$/;"	v
+g:lightline#colorscheme#onedark#palette	../autoload/lightline/colorscheme/onedark.vim	/^let g:lightline#colorscheme#onedark#palette = lightline#colorscheme#flatten(s:p)$/;"	v
+g:onedark_termcolors	../colors/onedark.vim	/^  let g:onedark_termcolors = 256$/;"	v
+g:onedark_termcolors	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:onedark_termcolors = 256$/;"	v
+g:onedark_terminal_italics	../colors/onedark.vim	/^  let g:onedark_terminal_italics = 0$/;"	v
+g:onedark_terminal_italics	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:onedark_terminal_italics = 0$/;"	v
+g:terminal_color_0	../colors/onedark.vim	/^  let g:terminal_color_0 =  s:black.gui$/;"	v
+g:terminal_color_0	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_0 =  s:black.gui$/;"	v
+g:terminal_color_1	../colors/onedark.vim	/^  let g:terminal_color_1 =  s:red.gui$/;"	v
+g:terminal_color_1	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_1 =  s:red.gui$/;"	v
+g:terminal_color_10	../colors/onedark.vim	/^  let g:terminal_color_10 = s:green.gui " No dark version$/;"	v
+g:terminal_color_10	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_10 = s:green.gui " No dark version$/;"	v
+g:terminal_color_11	../colors/onedark.vim	/^  let g:terminal_color_11 = s:dark_yellow.gui$/;"	v
+g:terminal_color_11	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_11 = s:dark_yellow.gui$/;"	v
+g:terminal_color_12	../colors/onedark.vim	/^  let g:terminal_color_12 = s:blue.gui " No dark version$/;"	v
+g:terminal_color_12	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_12 = s:blue.gui " No dark version$/;"	v
+g:terminal_color_13	../colors/onedark.vim	/^  let g:terminal_color_13 = s:purple.gui " No dark version$/;"	v
+g:terminal_color_13	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_13 = s:purple.gui " No dark version$/;"	v
+g:terminal_color_14	../colors/onedark.vim	/^  let g:terminal_color_14 = s:cyan.gui " No dark version$/;"	v
+g:terminal_color_14	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_14 = s:cyan.gui " No dark version$/;"	v
+g:terminal_color_15	../colors/onedark.vim	/^  let g:terminal_color_15 = s:comment_grey.gui$/;"	v
+g:terminal_color_15	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_15 = s:comment_grey.gui$/;"	v
+g:terminal_color_2	../colors/onedark.vim	/^  let g:terminal_color_2 =  s:green.gui$/;"	v
+g:terminal_color_2	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_2 =  s:green.gui$/;"	v
+g:terminal_color_3	../colors/onedark.vim	/^  let g:terminal_color_3 =  s:yellow.gui$/;"	v
+g:terminal_color_3	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_3 =  s:yellow.gui$/;"	v
+g:terminal_color_4	../colors/onedark.vim	/^  let g:terminal_color_4 =  s:blue.gui$/;"	v
+g:terminal_color_4	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_4 =  s:blue.gui$/;"	v
+g:terminal_color_5	../colors/onedark.vim	/^  let g:terminal_color_5 =  s:purple.gui$/;"	v
+g:terminal_color_5	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_5 =  s:purple.gui$/;"	v
+g:terminal_color_6	../colors/onedark.vim	/^  let g:terminal_color_6 =  s:cyan.gui$/;"	v
+g:terminal_color_6	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_6 =  s:cyan.gui$/;"	v
+g:terminal_color_7	../colors/onedark.vim	/^  let g:terminal_color_7 =  s:white.gui$/;"	v
+g:terminal_color_7	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_7 =  s:white.gui$/;"	v
+g:terminal_color_8	../colors/onedark.vim	/^  let g:terminal_color_8 =  s:visual_grey.gui$/;"	v
+g:terminal_color_8	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_8 =  s:visual_grey.gui$/;"	v
+g:terminal_color_9	../colors/onedark.vim	/^  let g:terminal_color_9 =  s:dark_red.gui$/;"	v
+g:terminal_color_9	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_9 =  s:dark_red.gui$/;"	v
+g:terminal_color_background	../colors/onedark.vim	/^  let g:terminal_color_background = g:terminal_color_0$/;"	v
+g:terminal_color_background	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_background = g:terminal_color_0$/;"	v
+g:terminal_color_foreground	../colors/onedark.vim	/^  let g:terminal_color_foreground = g:terminal_color_7$/;"	v
+g:terminal_color_foreground	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^  let g:terminal_color_foreground = g:terminal_color_7$/;"	v
+handleError	../build/build.js	/^const handleError = (message, cause) => {$/;"	C
+husky	../build/package.json	/^    "husky": "^0.13.1"$/;"	s	object:devDependencies
+indent	../build/.eslintrc.json	/^        "indent": [$/;"	a	object:rules
+interpolate	../build/build.js	/^	interpolate: \/\\<\\%=([\\s\\S]+?)\\%\\>\/g,$/;"	p	class:doT.templateSettings
+interpolate	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+iterate	../build/build.js	/^	iterate:     \/\\<\\%~\\s*(?:\\%\\>|([\\s\\S]+?)\\s*\\:\\s*([\\w$]+)\\s*(?:\\:\\s*([\\w$]+))?\\/;"	p	class:doT.templateSettings
+iterate	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+license	../build/package.json	/^  "license": "MIT",$/;"	s
+linebreak-style	../build/.eslintrc.json	/^        "linebreak-style": [$/;"	a	object:rules
+log	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+main	../build/package.json	/^  "main": "build.js",$/;"	s
+n	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c	class:r.encodeHTMLSource
+n	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+name	../build/package.json	/^    "name": "Josh Dick",$/;"	s	object:author
+name	../build/package.json	/^  "name": "onedark.vim-builder",$/;"	s
+no-console	../build/.eslintrc.json	/^        "no-console": [$/;"	a	object:rules
+node	../build/.eslintrc.json	/^        "node": true$/;"	b	object:env
+o	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c
+onedark#GetColors	../autoload/onedark.vim	/^function! onedark#GetColors()$/;"	f
+onedark#GetColors	../build/templates/autoload.template.vim	/^function! onedark#GetColors()$/;"	f
+onedark#set_highlight	../colors/onedark.vim	/^function! onedark#set_highlight(group, style)$/;"	f
+onedark#set_highlight	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^function! onedark#set_highlight(group, style)$/;"	f
+precommit	../build/package.json	/^    "precommit": "npm test",$/;"	s	object:scripts
+quotes	../build/.eslintrc.json	/^        "quotes": [$/;"	a	object:rules
+r	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c
+repository	../build/package.json	/^  "repository": {$/;"	o
+rules	../build/.eslintrc.json	/^    "rules": {$/;"	o
+s:black	../autoload/lightline/colorscheme/onedark.vim	/^let s:black = [ s:colors.black.gui, s:term_black ]$/;"	v
+s:black	../colors/onedark.vim	/^let s:black = s:colors.black$/;"	v
+s:black	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:black = s:colors.black$/;"	v
+s:blue	../autoload/lightline/colorscheme/onedark.vim	/^let s:blue = [ s:colors.blue.gui, s:term_blue ]$/;"	v
+s:blue	../colors/onedark.vim	/^let s:blue = s:colors.blue$/;"	v
+s:blue	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:blue = s:colors.blue$/;"	v
+s:colors	../autoload/lightline/colorscheme/onedark.vim	/^let s:colors = onedark#GetColors()$/;"	v
+s:colors	../autoload/onedark.vim	/^let s:colors = {$/;"	v
+s:colors	../build/templates/autoload.template.vim	/^let s:colors = {$/;"	v
+s:colors	../colors/onedark.vim	/^let s:colors = onedark#GetColors()$/;"	v
+s:colors	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:colors = onedark#GetColors()$/;"	v
+s:comment_grey	../colors/onedark.vim	/^let s:comment_grey = s:colors.comment_grey$/;"	v
+s:comment_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:comment_grey = s:colors.comment_grey$/;"	v
+s:cursor_grey	../colors/onedark.vim	/^let s:cursor_grey = s:colors.cursor_grey$/;"	v
+s:cursor_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:cursor_grey = s:colors.cursor_grey$/;"	v
+s:cyan	../colors/onedark.vim	/^let s:cyan = s:colors.cyan$/;"	v
+s:cyan	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:cyan = s:colors.cyan$/;"	v
+s:dark_red	../colors/onedark.vim	/^let s:dark_red = s:colors.dark_red$/;"	v
+s:dark_red	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:dark_red = s:colors.dark_red$/;"	v
+s:dark_yellow	../colors/onedark.vim	/^let s:dark_yellow = s:colors.dark_yellow$/;"	v
+s:dark_yellow	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:dark_yellow = s:colors.dark_yellow$/;"	v
+s:green	../autoload/lightline/colorscheme/onedark.vim	/^let s:green = [ s:colors.green.gui, s:term_green ]$/;"	v
+s:green	../colors/onedark.vim	/^let s:green = s:colors.green$/;"	v
+s:green	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:green = s:colors.green$/;"	v
+s:grey	../autoload/lightline/colorscheme/onedark.vim	/^let s:grey = [ s:colors.visual_grey.gui, s:term_grey ]$/;"	v
+s:gutter_fg_grey	../colors/onedark.vim	/^let s:gutter_fg_grey = s:colors.gutter_fg_grey$/;"	v
+s:gutter_fg_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:gutter_fg_grey = s:colors.gutter_fg_grey$/;"	v
+s:h	../colors/onedark.vim	/^function! s:h(group, style)$/;"	f
+s:h	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^function! s:h(group, style)$/;"	f
+s:menu_grey	../colors/onedark.vim	/^let s:menu_grey = s:colors.menu_grey$/;"	v
+s:menu_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:menu_grey = s:colors.menu_grey$/;"	v
+s:overrides	../autoload/onedark.vim	/^let s:overrides = get(g:, "onedark_color_overrides", {})$/;"	v
+s:overrides	../build/templates/autoload.template.vim	/^let s:overrides = get(g:, "onedark_color_overrides", {})$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.inactive.left =  [ [ s:white, s:grey ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.inactive.middle = [ [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.inactive.right = [ [ s:black, s:white ], [ s:black, s:white ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.insert.left = [ [ s:black, s:blue ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.insert.right = [ [ s:black, s:blue ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.normal.error = [ [ s:black, s:red ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.normal.left = [ [ s:black, s:green ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.normal.middle = [ [ s:white, s:black ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.normal.right = [ [ s:black, s:green ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.normal.warning = [ [ s:black, s:yellow ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.replace.left = [ [ s:black, s:red ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.replace.right = [ [ s:black, s:red ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.tabline.left = [ [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.tabline.middle = [ [ s:white, s:black ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.tabline.right = [ [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.tabline.tabsel = [ [ s:black, s:white ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.visual.left = [ [ s:black, s:purple ], [ s:white, s:grey ] ]$/;"	v
+s:p	../autoload/lightline/colorscheme/onedark.vim	/^let s:p.visual.right = [ [ s:black, s:purple ], [ s:white, s:grey ] ]$/;"	v
+s:purple	../autoload/lightline/colorscheme/onedark.vim	/^let s:purple = [ s:colors.purple.gui, s:term_purple ]$/;"	v
+s:purple	../colors/onedark.vim	/^let s:purple = s:colors.purple$/;"	v
+s:purple	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:purple = s:colors.purple$/;"	v
+s:red	../autoload/lightline/colorscheme/onedark.vim	/^let s:red = [ s:colors.red.gui, s:term_red ]$/;"	v
+s:red	../colors/onedark.vim	/^let s:red = s:colors.red$/;"	v
+s:red	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:red = s:colors.red$/;"	v
+s:special_grey	../colors/onedark.vim	/^let s:special_grey = s:colors.special_grey$/;"	v
+s:special_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:special_grey = s:colors.special_grey$/;"	v
+s:term_black	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_black = s:colors.black.cterm$/;"	v
+s:term_black	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_black = s:colors.black.cterm16$/;"	v
+s:term_blue	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_blue = s:colors.blue.cterm$/;"	v
+s:term_blue	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_blue = s:colors.blue.cterm16$/;"	v
+s:term_green	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_green = s:colors.green.cterm$/;"	v
+s:term_green	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_green = s:colors.green.cterm16$/;"	v
+s:term_grey	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_grey = s:colors.cursor_grey.cterm$/;"	v
+s:term_grey	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_grey = s:colors.cursor_grey.cterm16$/;"	v
+s:term_purple	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_purple = s:colors.purple.cterm$/;"	v
+s:term_purple	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_purple = s:colors.purple.cterm16$/;"	v
+s:term_red	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_red = s:colors.red.cterm$/;"	v
+s:term_red	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_red = s:colors.red.cterm16$/;"	v
+s:term_white	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_white = s:colors.white.cterm$/;"	v
+s:term_white	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_white = s:colors.white.cterm16$/;"	v
+s:term_yellow	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_yellow = s:colors.yellow.cterm$/;"	v
+s:term_yellow	../autoload/lightline/colorscheme/onedark.vim	/^  let s:term_yellow = s:colors.yellow.cterm16$/;"	v
+s:vertsplit	../colors/onedark.vim	/^let s:vertsplit = s:colors.vertsplit$/;"	v
+s:vertsplit	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:vertsplit = s:colors.vertsplit$/;"	v
+s:visual_black	../colors/onedark.vim	/^let s:visual_black = s:colors.visual_black " Black out selected text in 16-color visual mode$/;"	v
+s:visual_black	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:visual_black = s:colors.visual_black " Black out selected text in 16-color visual mode$/;"	v
+s:visual_grey	../colors/onedark.vim	/^let s:visual_grey = s:colors.visual_grey$/;"	v
+s:visual_grey	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:visual_grey = s:colors.visual_grey$/;"	v
+s:white	../autoload/lightline/colorscheme/onedark.vim	/^let s:white = [ s:colors.white.gui, s:term_white ]$/;"	v
+s:white	../colors/onedark.vim	/^let s:white = s:colors.white$/;"	v
+s:white	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:white = s:colors.white$/;"	v
+s:yellow	../autoload/lightline/colorscheme/onedark.vim	/^let s:yellow = [ s:colors.yellow.gui, s:term_yellow ]$/;"	v
+s:yellow	../colors/onedark.vim	/^let s:yellow = s:colors.yellow$/;"	v
+s:yellow	/home/matthieu/.vim/bundle/onedark.vim/colors/onedark.vim	/^let s:yellow = s:colors.yellow$/;"	v
+scripts	../build/package.json	/^  "scripts": {$/;"	o
+selfcontained	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+semi	../build/.eslintrc.json	/^        "semi": [$/;"	a	object:rules
+shouldCheck	../build/build.js	/^const shouldCheck = String(process.argv[2]).toLowerCase() === 'check'$/;"	C
+split	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c	class:o
+start	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.append
+start	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.split
+startencode	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.append
+startencode	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:o.split
+strip	../build/build.js	/^	strip: false, \/\/ preserve whitespace$/;"	p	class:doT.templateSettings
+strip	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+t	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f
+template	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	f	function:r
+template	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+templateSettings	../build/build.js	/^doT.templateSettings = {$/;"	c	class:doT
+templateSettings	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	c	class:r
+termcolors	../build/build.js	/^const termcolors = require('termcolors')$/;"	C
+termcolors	../build/package.json	/^    "termcolors": "latest"$/;"	s	object:dependencies
+test	../build/package.json	/^    "test": "eslint build.js && node build.js check"$/;"	s	object:scripts
+text	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+type	../build/package.json	/^    "type": "git",$/;"	s	object:repository
+url	../build/package.json	/^    "url": "http:\/\/joshdick.net"$/;"	s	object:author
+url	../build/package.json	/^    "url": "https:\/\/github.com\/joshdick\/onedark.vim.git"$/;"	s	object:repository
+use	../build/build.js	/^	use:         \/\\<\\%#([\\s\\S]+?)\\%\\>\/g,$/;"	p	class:doT.templateSettings
+use	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+useParams	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+varname	../build/build.js	/^	varname: 'it',$/;"	p	class:doT.templateSettings
+varname	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r.templateSettings
+version	../build/doT.min.js	/^!function(){"use strict";function e(n,t,r){return("string"==typeof t?t:t.toString()).replace(n.d/;"	p	class:r
+version	../build/package.json	/^  "version": "1.0.0",$/;"	s
